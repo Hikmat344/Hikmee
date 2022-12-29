@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Hikmee
-- 👀 I’m interested in Web Development,Wordpress development, AI,IoT,
-- 🌱 I’m currently learning WordPress
+- 💖 web 3.0 & Metaverse Evangelist
+- 👀 I’m interested in Web Development| AI | web 3.0 | Metaverse 
+- 🌱 I’m currently web 3.0 & Metaverse
 - 💞️ I’m looking to collaborate on my Projects
 
 <!---
